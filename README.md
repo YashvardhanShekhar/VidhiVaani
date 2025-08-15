@@ -43,7 +43,7 @@ VidhiVaani is a React Native mobile application that provides AI-powered legal g
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/vidhivaani.git
+   git clone https://github.com/YashvardhanShekhar/vidhivaani.git
    cd vidhivaani
    ```
 
@@ -218,12 +218,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Expo Team**: For the excellent React Native framework
 - **Indian Legal System**: For the comprehensive legal knowledge base
 - **Open Source Community**: For the various libraries and tools used
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/vidhivaani/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/vidhivaani/discussions)
-- **Email**: support@vidhivaani.app
 
 ## ⚖️ Legal Disclaimer
 
